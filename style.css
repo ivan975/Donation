@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Josefin Sans", sans-serif;
+}
+.first-para {
+  background-image: url(Pictures/images/donation0.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+}
+h1 {
+  color: rgb(102, 97, 97);
+  font-size: 5.8rem;
+  padding-left: 15%;
+  padding-top: 8%;
+  padding-left: 8%;
+  font-weight: bolder;
+}
