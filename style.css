@@ -7,16 +7,67 @@ body {
   font-family: "Josefin Sans", sans-serif;
 }
 .first-para {
-  background-image: url(Pictures/images/donation0.jpg);
+  background-image: url(Pictures/images/donation11.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 500px;
 }
 h1 {
-  color: rgb(102, 97, 97);
+  color: rgb(72, 83, 238);
   font-size: 5.8rem;
-  padding-left: 15%;
   padding-top: 8%;
-  padding-left: 8%;
+  text-align: center;
   font-weight: bolder;
+}
+p {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 46px;
+  color: rgba(79, 79, 79, 0.849);
+}
+.link-button {
+  margin: 48%;
+  padding: 19px 21px;
+  text-decoration: none;
+  border-radius: 10px;
+  background-color: crimson;
+  font-size: 30px;
+  color: aliceblue;
+}
+.amount li {
+  text-align: center;
+  font-size: 40px;
+  color: rgb(72, 83, 238);
+  font-weight: bolder;
+  list-style: none;
+  padding: 10px 20px;
+  float: left;
+  margin-left: 8%;
+  background-color: rgba(128, 128, 128, 0.284);
+  height: 30%;
+  border-radius: 5px;
+  margin-bottom: 5%;
+}
+h2 {
+  font-size: 2.8rem;
+  text-align: center;
+  margin-top: 4%;
+}
+.second-part p {
+  font-weight: lighter;
+  font-size: 20px;
+}
+#colour {
+  color: tomato;
+  background-color: rgba(255, 99, 71, 0.315);
+  border-radius: 5px;
+  border: 3px solid;
+}
+.form input {
+  height: 50px;
+  padding: 0 14%;
+  margin-bottom: 4%;
+  padding-right: 15%;
+  border: none;
+  border-bottom: 2px solid rgba(119, 116, 116, 0.742);
 }
