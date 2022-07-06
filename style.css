@@ -77,6 +77,7 @@ h3 {
 .cards {
   display: flex;
   justify-content: space-around;
+  margin-bottom: 20%;
 }
 .card-1 {
   width: 300px;
@@ -110,4 +111,18 @@ h3 {
 #fifth {
   font-size: 12px;
   padding-right: 37%;
+}
+.fifth-part {
+  display: flex;
+}
+.image {
+  width: 57%;
+  margin: 15px;
+}
+.fifth-part .link-button {
+  margin-left: 29%;
+}
+.email-form {
+  background-color: burlywood;
+  text-align: center;
 }
